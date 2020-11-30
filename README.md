@@ -21,7 +21,7 @@ By the end of this unit, developers should be able to:
 
 ## Project 3
 
-We'll give more details as we get closer to the project, but you will receive a design from UX to build a full-stack app around. The required technologies will be:
+We'll give more details as we get closer to the project, but you will be building a full-stack app. The required technologies will be:
 
 - React
 - React Router
